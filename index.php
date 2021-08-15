@@ -16,6 +16,6 @@
     <title>Food Search Theme</title>
 </head>
 <body>
-    jd power
+    jd power & assoc.
 </body>
 </html>
